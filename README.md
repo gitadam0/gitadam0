@@ -69,8 +69,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gitadam0&show_icons=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitadam0&layout=compact&theme=tokyonight" height="180px" />
 </p>
-<!-- WakaTime stats -->
-![Metrics](https://raw.githubusercontent.com/mouaddineadam/mouaddineadam/main/github-metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
+
 
 
 ---
