@@ -69,7 +69,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gitadam0&show_icons=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitadam0&layout=compact&theme=tokyonight" height="180px" />
 </p>
-![GitHub Metrics](./github-metrics.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gitadam0/gitadam0/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 
