@@ -89,28 +89,14 @@
 ## 🤝 Let's Connect
 
 <p>
-  <a
-    href="https://www.linkedin.com/in/adam-mouaddine-98a5bb224/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"
-    />
+  <a href="https://www.linkedin.com/in/adam-mouaddine-98a5bb224/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-
-  <a
-    href="mailto:adm.mdd@gmail.com"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="Email"
-      src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"
-    />
+  <a href="mailto:adm.mdd@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
