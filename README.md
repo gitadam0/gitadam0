@@ -12,7 +12,7 @@
 - 🌍 Based in **Casablanca, Morocco**
 - 🧠 Exploring system design, scalable architecture, and DevOps practices
 - 💬 Ask me about web apps, API design, or mobile development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adam-mouaddine-98a5bb224/) • [Email](mailto:adm.mdd@gmail.com)
 
 ---
 
