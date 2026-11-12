@@ -78,7 +78,7 @@ I'm a **Full-Stack Developer** working with **Ruby on Rails** and **Angular**, b
 | --- | --- |
 | 🦀 **Rust** | 🎯 Up next |
 | ☸️ **Kubernetes** | 🎯 Up next |
-| ⚡ **Frontend performance** optimization | 🔨 In progress |
+| ⚡ ** performance optimization **  | 🔨 In progress |
 
 ---
 
