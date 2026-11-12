@@ -19,9 +19,9 @@
 
 I'm a **Full-Stack Developer** working with **Ruby on Rails** and **Angular**, based in **Casablanca, Morocco**. Before my current role I spent a lot of time building with **Java and Spring Boot** on the backend and shipping **mobile apps** for **Android and iOS** with **Flutter and Kotlin**. I care about clean code, solid API design, and building products that scale and feel good to use.
 
-- 🏗️ Digging into **system design**, scalable architecture and DevOps practices
-- ☁️ Completed the **AWS course on Boot.dev** and comfortable with the cloud basics
-- 💬 Ask me about **web apps, API design, Spring Boot, or mobile development**
+- 🏗️ Interested in **system design, scalable architectures, and distributed systems**
+- ☁️ Exploring **cloud infrastructure, AWS, and DevOps**
+- 💬 Always happy to discuss **web development, API design, Spring Boot, and mobile development** **
 
 ---
 
