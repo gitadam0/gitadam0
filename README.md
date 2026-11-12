@@ -86,12 +86,9 @@ I'm a **Full-Stack Developer** working with **Ruby on Rails** and **Angular**, b
 
 <div align="center">
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=gitadam0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-hhhhh
+
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gitadam0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-hhh
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gitadam0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-hhhh
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitadam0&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
 
 <br/>
 
